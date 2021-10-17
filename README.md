@@ -14,4 +14,4 @@ Deployed Link https://neuralst.herokuapp.com/
 
 ## Wave
 
-![Wave](https://github.com/Ani-pejakala/neural-style-transfer-web-app/blob/master/assets/test_the_wave.jpg)
+![Wave](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test_Fire_Style.jpg)
