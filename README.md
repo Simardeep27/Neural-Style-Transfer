@@ -10,8 +10,8 @@ Deployed Link https://neuralst.herokuapp.com/
 
 ## Styled Image- Pink Style
 
-![scream](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test_pink_style.jpg)
+![pink](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test_pink_style.jpg)
 
 ## Fire Style
 
-![Wave](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test_Fire_Style.jpg)
+![Fire](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test_Fire_Style.jpg)
