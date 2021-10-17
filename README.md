@@ -8,7 +8,7 @@ Deployed Link https://neuralst.herokuapp.com/
 
 ![Content Image](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test.jpg)
 
-## Styled Image-The Scream
+## Styled Image- Pink Style
 
 ![scream](https://github.com/Ani-pejakala/neural-style-transfer-web-app/blob/master/assets/test_the_scream.jpg)
 
