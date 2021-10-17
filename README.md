@@ -1,7 +1,7 @@
 # The Neural style transfer using Flask,Heroku and OpenCv with pretrained models.
 
 ## Download pre-trained models [here](https://github.com/jcjohnson/fast-neural-style)
-Deployed Link https://bit.ly/ghost-StyleMe 
+Deployed Link https://neuralst.herokuapp.com/
 (Don't try to upload large images.Don't have GPU...free version of heroku.Below 1 MB works fine)
 
 ## Original Image 
