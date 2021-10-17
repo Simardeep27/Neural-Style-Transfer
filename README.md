@@ -6,7 +6,7 @@ Deployed Link https://neuralst.herokuapp.com/
 
 ## Original Image 
 
-![Content Image](https://github.com/Ani-pejakala/neural-style-transfer-web-app/blob/master/assets/test.jpg)
+![Content Image](https://github.com/prableen14/Neural-Style-Transfer/blob/main/assets/test.jpg)
 
 ## Styled Image-The Scream
 
